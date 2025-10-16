@@ -28,6 +28,10 @@
     "link": "https://slavce14.github.io/apps/JsonList/info.json"
   },
   {
+    "name": "JsonList-changelogs",
+    "link": "https://slavce14.github.io/apps/JsonList/changelogs.json"
+  },
+  {
     "name": "JsonList-app-versions",
     "link": "https://slavce14.github.io/apps/JsonList#versions"
   },
@@ -38,6 +42,10 @@
   {
     "name": "Weather-app-info",
     "link": "https://slavce14.github.io/apps/Weather/info.json"
+  },
+  {
+    "name": "Weather-changelogs",
+    "link": "https://slavce14.github.io/apps/Weather/changelogs.json"
   },
   {
     "name": "Weather-app-versions",
@@ -54,6 +62,10 @@
   {
     "name": "Password-Manager-app-info",
     "link": "https://slavce14.github.io/apps/PasswordManager/info.json"
+  },
+  {
+    "name": "Password-Manager-changelogs",
+    "link": "https://slavce14.github.io/apps/PasswordManager/changelogs.json"
   },
   {
     "name": "Password-Manager-app-versions",
