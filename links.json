@@ -20,6 +20,10 @@
     "link": "https://apt.izzysoft.de/fdroid/index/apk/com.sjapps.jsonlist"
   },
   {
+    "name": "JsonList-play",
+    "link": "https://play.google.com/store/apps/details?id=com.sjapps.jsonlist"
+  },
+  {
     "name": "JsonList-app",
     "link": "https://slavce14.github.io/apps/JsonList"
   },
