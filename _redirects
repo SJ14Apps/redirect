@@ -5,21 +5,21 @@
 /jsonlist-fdroid https://f-droid.org/en/packages/com.sjapps.jsonlist 301
 /jsonlist-izzy https://apt.izzysoft.de/fdroid/index/apk/com.sjapps.jsonlist 301
 /jsonlist-play https://play.google.com/store/apps/details?id=com.sjapps.jsonlist 301
-/jsonlist-app https://slavce14.github.io/apps/JsonList 301
-/jsonlist-app-info https://slavce14.github.io/apps/JsonList/info.json 301
-/jsonlist-changelogs https://slavce14.github.io/apps/JsonList/changelogs.json 301
-/jsonlist-app-versions https://slavce14.github.io/apps/JsonList#versions 301
+/jsonlist-app https://sj14apps.com/apps/JsonList 301
+/jsonlist-app-info https://sj14apps.com/apps/JsonList/info.json 301
+/jsonlist-changelogs https://sj14apps.com/apps/JsonList/changelogs.json 301
+/jsonlist-app-versions https://sj14apps.com/apps/JsonList#versions 301
 
-/weather-app https://slavce14.github.io/apps/Weather 301
-/weather-app-info https://slavce14.github.io/apps/Weather/info.json 301
-/weather-changelogs https://slavce14.github.io/apps/Weather/changelogs.json 301
-/weather-app-versions https://slavce14.github.io/apps/Weather#versions 301
+/weather-app https://sj14apps.com/apps/Weather 301
+/weather-app-info https://sj14apps.com/apps/Weather/info.json 301
+/weather-changelogs https://sj14apps.com/apps/Weather/changelogs.json 301
+/weather-app-versions https://sj14apps.com/apps/Weather#versions 301
 
-/weather-dev https://slavce14.github.io/apps/Weather/versions/dev/Weather%201.6.1%20dev%202.apk 302
+/weather-dev https://sj14apps.com/apps/Weather/versions/dev/Weather%201.6.1%20dev%202.apk 302
 
-/password-manager-app https://slavce14.github.io/apps/PasswordManager 301
-/password-manager-info https://slavce14.github.io/apps/PasswordManager/info.json 301
-/password-manager-changelogs https://slavce14.github.io/apps/PasswordManager/changelogs.json 301
-/password-manager-app-versions https://slavce14.github.io/apps/PasswordManager#versions 301
+/password-manager-app https://sj14apps.com/apps/PasswordManager 301
+/password-manager-info https://sj14apps.com/apps/PasswordManager/info.json 301
+/password-manager-changelogs https://sj14apps.com/apps/PasswordManager/changelogs.json 301
+/password-manager-app-versions https://sj14apps.com/apps/PasswordManager#versions 301
 
 /firework-android-github https://github.com/SlaVcE14/Firework-android 301
