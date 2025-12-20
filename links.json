@@ -1,82 +1,23 @@
 [
-  {
-    "name": "GitHub",
-    "link": "http://www.github.com/SJ14Apps"
-  },
-  {
-    "name": "SJ-Dialog-GitHub",
-    "link": "http://www.github.com/slavce14/SJ-Dialog"
-  },
-  {
-    "name": "JsonList-GitHub",
-    "link": "http://www.github.com/slavce14/JsonList"
-  },
-  {
-    "name": "JsonList-fdroid",
-    "link": "https://f-droid.org/en/packages/com.sjapps.jsonlist"
-  },
-  {
-    "name": "JsonList-izzy",
-    "link": "https://apt.izzysoft.de/fdroid/index/apk/com.sjapps.jsonlist"
-  },
-  {
-    "name": "JsonList-play",
-    "link": "https://play.google.com/store/apps/details?id=com.sjapps.jsonlist"
-  },
-  {
-    "name": "JsonList-app",
-    "link": "https://slavce14.github.io/apps/JsonList"
-  },
-  {
-    "name": "JsonList-app-info",
-    "link": "https://slavce14.github.io/apps/JsonList/info.json"
-  },
-  {
-    "name": "JsonList-changelogs",
-    "link": "https://slavce14.github.io/apps/JsonList/changelogs.json"
-  },
-  {
-    "name": "JsonList-app-versions",
-    "link": "https://slavce14.github.io/apps/JsonList#versions"
-  },
-  {
-    "name": "Weather-app",
-    "link": "https://slavce14.github.io/apps/Weather"
-  },
-  {
-    "name": "Weather-app-info",
-    "link": "https://slavce14.github.io/apps/Weather/info.json"
-  },
-  {
-    "name": "Weather-changelogs",
-    "link": "https://slavce14.github.io/apps/Weather/changelogs.json"
-  },
-  {
-    "name": "Weather-app-versions",
-    "link": "https://slavce14.github.io/apps/Weather#versions"
-  },
-  {
-    "name": "Weather-app-dev",
-    "link": "https://slavce14.github.io/apps/Weather/versions/dev/Weather 1.6.1 dev 2.apk"
-  },
-  {
-    "name": "Password-Manager-app",
-    "link": "https://slavce14.github.io/apps/PasswordManager"
-  },
-  {
-    "name": "Password-Manager-app-info",
-    "link": "https://slavce14.github.io/apps/PasswordManager/info.json"
-  },
-  {
-    "name": "Password-Manager-changelogs",
-    "link": "https://slavce14.github.io/apps/PasswordManager/changelogs.json"
-  },
-  {
-    "name": "Password-Manager-app-versions",
-    "link": "https://slavce14.github.io/apps/PasswordManager#versions"
-  },
-  {
-    "name": "firework-android-GitHub",
-    "link": "https://github.com/SlaVcE14/Firework-android"
-  }
+  {"name": "github", "link": "https://www.github.com/SJ14Apps"},
+  {"name": "sj-dialog-github", "link": "https://www.github.com/slavce14/SJ-Dialog"},
+  {"name": "jsonlist-github", "link": "https://www.github.com/slavce14/JsonList"},
+  {"name": "jsonlist-fdroid", "link": "https://f-droid.org/en/packages/com.sjapps.jsonlist"},
+  {"name": "jsonlist-izzy", "link": "https://apt.izzysoft.de/fdroid/index/apk/com.sjapps.jsonlist"},
+  {"name": "jsonlist-play", "link": "https://play.google.com/store/apps/details?id=com.sjapps.jsonlist"},
+  {"name": "jsonlist-app", "link": "https://sj14apps.com/apps/JsonList"},
+  {"name": "jsonlist-app-info", "link": "https://sj14apps.com/apps/JsonList/info.json"},
+  {"name": "jsonlist-changelogs", "link": "https://sj14apps.com/apps/JsonList/changelogs.json"},
+  {"name": "jsonlist-app-versions", "link": "https://sj14apps.com/apps/JsonList#versions"},
+  {"name": "jsonlist-desktop-github", "link": "https://github.com/SlaVcE14/JsonList-Desktop"},
+  {"name": "weather-app", "link": "https://sj14apps.com/apps/Weather"},
+  {"name": "weather-app-info", "link": "https://sj14apps.com/apps/Weather/info.json"},
+  {"name": "weather-changelogs", "link": "https://sj14apps.com/apps/Weather/changelogs.json"},
+  {"name": "weather-app-versions", "link": "https://sj14apps.com/apps/Weather#versions"},
+  {"name": "weather-dev", "link": "https://sj14apps.com/apps/Weather/versions/dev/Weather%201.6.1%20dev%202.apk"},
+  {"name": "password-manager-app", "link": "https://sj14apps.com/apps/PasswordManager"},
+  {"name": "password-manager-info", "link": "https://sj14apps.com/apps/PasswordManager/info.json"},
+  {"name": "password-manager-changelogs", "link": "https://sj14apps.com/apps/PasswordManager/changelogs.json"},
+  {"name": "password-manager-app-versions", "link": "https://sj14apps.com/apps/PasswordManager#versions"},
+  {"name": "firework-android-github", "link": "https://github.com/SlaVcE14/Firework-android"}
 ]
