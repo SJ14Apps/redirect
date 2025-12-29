@@ -1,7 +1,7 @@
 [
-  {"name": "github", "link": "https://www.github.com/SJ14Apps"},
-  {"name": "sj-dialog-github", "link": "https://www.github.com/slavce14/SJ-Dialog"},
-  {"name": "jsonlist-github", "link": "https://www.github.com/slavce14/JsonList"},
+  {"name": "github", "link": "https://github.com/SJ14Apps"},
+  {"name": "sj-dialog-github", "link": "https://github.com/slavce14/SJ-Dialog"},
+  {"name": "jsonlist-github", "link": "https://github.com/slavce14/JsonList"},
   {"name": "jsonlist-fdroid", "link": "https://f-droid.org/en/packages/com.sjapps.jsonlist"},
   {"name": "jsonlist-izzy", "link": "https://apt.izzysoft.de/fdroid/index/apk/com.sjapps.jsonlist"},
   {"name": "jsonlist-play", "link": "https://play.google.com/store/apps/details?id=com.sjapps.jsonlist"},
