@@ -1,7 +1,7 @@
 [
   {"name": "github", "link": "https://github.com/SJ14Apps"},
-  {"name": "sj-dialog-github", "link": "https://github.com/slavce14/SJ-Dialog"},
-  {"name": "jsonlist-github", "link": "https://github.com/slavce14/JsonList"},
+  {"name": "sj-dialog-github", "link": "https://github.com/SJ14Apps/SJ-Dialog"},
+  {"name": "jsonlist-github", "link": "https://github.com/SJ14Apps/JsonList"},
   {"name": "jsonlist-fdroid", "link": "https://f-droid.org/en/packages/com.sjapps.jsonlist"},
   {"name": "jsonlist-izzy", "link": "https://apt.izzysoft.de/fdroid/index/apk/com.sjapps.jsonlist"},
   {"name": "jsonlist-play", "link": "https://play.google.com/store/apps/details?id=com.sjapps.jsonlist"},
@@ -9,7 +9,7 @@
   {"name": "jsonlist-app-info", "link": "https://sj14apps.com/apps/JsonList/info.json"},
   {"name": "jsonlist-changelogs", "link": "https://sj14apps.com/apps/JsonList/changelogs.json"},
   {"name": "jsonlist-app-versions", "link": "https://sj14apps.com/apps/JsonList#versions"},
-  {"name": "jsonlist-desktop-github", "link": "https://github.com/SlaVcE14/JsonList-Desktop"},
+  {"name": "jsonlist-desktop-github", "link": "https://github.com/SJ14Apps/JsonList-Desktop"},
   {"name": "weather-app", "link": "https://sj14apps.com/apps/Weather"},
   {"name": "weather-app-info", "link": "https://sj14apps.com/apps/Weather/info.json"},
   {"name": "weather-changelogs", "link": "https://sj14apps.com/apps/Weather/changelogs.json"},
@@ -19,5 +19,5 @@
   {"name": "password-manager-info", "link": "https://sj14apps.com/apps/PasswordManager/info.json"},
   {"name": "password-manager-changelogs", "link": "https://sj14apps.com/apps/PasswordManager/changelogs.json"},
   {"name": "password-manager-app-versions", "link": "https://sj14apps.com/apps/PasswordManager#versions"},
-  {"name": "firework-android-github", "link": "https://github.com/SlaVcE14/Firework-android"}
+  {"name": "firework-android-github", "link": "https://github.com/SJ14Apps/Firework-android"}
 ]
