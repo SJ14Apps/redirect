@@ -8,6 +8,7 @@
   {"name": "jsonlist-app", "link": "https://sj14apps.com/apps/JsonList"},
   {"name": "jsonlist-app-info", "link": "https://sj14apps.com/apps/JsonList/info.json"},
   {"name": "jsonlist-changelogs", "link": "https://sj14apps.com/apps/JsonList/changelogs.json"},
+  {"name": "jsonlist-changelogs-beta", "link": "https://sj14apps.com/apps/JsonList/beta/changelogs.json"},
   {"name": "jsonlist-app-versions", "link": "https://sj14apps.com/apps/JsonList#versions"},
   {"name": "jsonlist-desktop-github", "link": "https://github.com/SJ14Apps/JsonList-Desktop"},
   {"name": "weather-app", "link": "https://sj14apps.com/apps/Weather"},

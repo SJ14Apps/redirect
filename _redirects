@@ -8,6 +8,7 @@
 /jsonlist-app https://sj14apps.com/apps/JsonList 301
 /jsonlist-app-info https://sj14apps.com/apps/JsonList/info.json 301
 /jsonlist-changelogs https://sj14apps.com/apps/JsonList/changelogs.json 301
+/jsonlist-changelogs-beta https://sj14apps.com/apps/JsonList/beta/changelogs.json 301
 /jsonlist-app-versions https://sj14apps.com/apps/JsonList#versions 301
 
 /jsonlist-desktop-github https://github.com/SJ14Apps/JsonList-Desktop 301
