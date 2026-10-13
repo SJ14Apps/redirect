@@ -20,5 +20,10 @@
   {"name": "password-manager-info", "link": "https://sj14apps.com/apps/PasswordManager/info.json"},
   {"name": "password-manager-changelogs", "link": "https://sj14apps.com/apps/PasswordManager/changelogs.json"},
   {"name": "password-manager-app-versions", "link": "https://sj14apps.com/apps/PasswordManager#versions"},
-  {"name": "firework-android-github", "link": "https://github.com/SJ14Apps/Firework-android"}
+  {"name": "firework-android-github", "link": "https://github.com/SJ14Apps/Firework-android"},
+  {"name": "bus-now-play", "link": "https://play.google.com/store/apps/details?id=com.sj14apps.jspnow"},
+  {"name": "bus-now-app", "link": "https://sj14apps.com/apps/BusNow"},
+  {"name": "bus-now-app-info", "link": "https://sj14apps.com/apps/BusNow/info.json"},
+  {"name": "bus-now-changelogs", "link": "https://sj14apps.com/apps/BusNow/changelogs.json"},
+  {"name": "bus-now-app-versions", "link": "https://sj14apps.com/apps/BusNow#versions"}
 ]
